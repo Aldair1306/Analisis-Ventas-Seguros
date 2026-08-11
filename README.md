@@ -68,7 +68,7 @@ Permite monitorear la captación de clientes mediante indicadores de efectividad
 
 ### Dashboard Interactivo
 
-[Ver Dashboard Interactivo en Power BI]([TU_LINK_DE_POWER_BI](https://app.powerbi.com/view?r=eyJrIjoiODZhYWU2ODMtOWUxYi00NzU1LWEzZWMtMGFhMjFhMzM3M2U3IiwidCI6Ijg2YTZiZTFjLTM4NjEtNDE3Zi05ODJkLWQ3Mjg1YjYyNzhhOCJ9&pageName=5aa7f9c734775ee5c019))
+[Ver Dashboard Interactivo en Power BI](https://app.powerbi.com/view?r=eyJrIjoiODZhYWU2ODMtOWUxYi00NzU1LWEzZWMtMGFhMjFhMzM3M2U3IiwidCI6Ijg2YTZiZTFjLTM4NjEtNDE3Zi05ODJkLWQ3Mjg1YjYyNzhhOCJ9&pageName=5aa7f9c734775ee5c019)
 
 ## SQL
 
