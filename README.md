@@ -29,6 +29,9 @@ El proyecto utiliza **Microsoft SQL Server** para crear y estructurar la base de
 │   ├── Verticales.jpg
 │   └── Fuentes.jpg
 │
+├── Insights/
+│   └── analisis-ejecutivo-y-recomendaciones.pdf
+│
 └── README.md
 ```
 
